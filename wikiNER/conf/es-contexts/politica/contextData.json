@@ -1,0 +1,26 @@
+{
+    "forbiddenEntities":[
+    ],
+    "forbiddenCat":[
+    ],
+    "addedEntities":[
+
+            {
+                "inlinks": 2507,
+                "categories": [
+               ],
+                "ontoEntities": [
+                   "http://dbpedia.org/ontology/PoliticalParty",
+                    "http://dbpedia.org/ontology/Organisation",
+                    "http://schema.org/Organization",
+                    "http://dbpedia.org/ontology/Agent",
+                    "http://www.w3.org/2002/07/owl#Thing"
+               ],
+                "canonical": "http://dbpedia.org/resource/Spanish_Socialist_Workers'_Party",
+                "langFlat": "psoe",
+                "langOriginal": "PSOE"
+            }
+
+    ]
+
+}

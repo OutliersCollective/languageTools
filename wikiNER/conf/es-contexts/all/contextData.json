@@ -1,0 +1,49 @@
+{
+    "forbiddenEntities":[
+
+            "http://dbpedia.org/resource/Grammatical_case",
+            "http://dbpedia.org/resource/Centre_(French_region)",
+            "http://dbpedia.org/resource/Point_guard",
+            "http://dbpedia.org/resource/Base_(chemistry)",
+            "http://dbpedia.org/resource/Basis_(linear_algebra)",
+            "http://dbpedia.org/resource/Centro_(Madrid)",
+            "http://dbpedia.org/resource/Caso",
+            "http://dbpedia.org/resource/D_(New_York_City_Subway_service)",
+            "http://dbpedia.org/resource/Tomar"
+    ],
+    "forbiddenCat":[
+        "http://dbpedia.org/resource/Category:Latin_alphabet"
+    ],
+    "addedEntities":[
+
+            {
+                "inlinks": 416,
+                "categories": [
+                    "http://dbpedia.org/resource/Category:Current_national_leaders",
+                    "http://dbpedia.org/resource/Category:People_from_Santiago_de_Compostela",
+                    "http://dbpedia.org/resource/Category:Spanish_Ministers_of_Education",
+                    "http://dbpedia.org/resource/Category:Spanish_jurists",
+                    "http://dbpedia.org/resource/Category:Galician_politicians",
+                    "http://dbpedia.org/resource/Category:Members_of_the_third_Congress_of_Deputies_(Spain)",
+                    "http://dbpedia.org/resource/Category:Members_of_the_eighth_Congress_of_Deputies_(Spain)",
+                    "http://dbpedia.org/resource/Category:Members_of_the_ninth_Congress_of_Deputies_(Spain)",
+                    "http://dbpedia.org/resource/Category:Campaign_managers"
+               ],
+                "ontoEntities": [
+                    "http://dbpedia.org/ontology/President",
+                    "http://dbpedia.org/ontology/Politician",
+                    "http://dbpedia.org/ontology/Person",
+                    "http://xmlns.com/foaf/0.1/Person",
+                    "http://www.w3.org/2002/07/owl#Thing",
+                    "http://schema.org/Person",
+                    "http://dbpedia.org/ontology/Agent"
+               ],
+                "canonical": "http://dbpedia.org/resource/Mariano_Rajoy",
+                "langFlat": "rajoy",
+                "langOriginal": "Mariano Rajoy"
+
+            }
+
+    ]
+
+}
